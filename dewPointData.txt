@@ -1,0 +1,321 @@
+Date                RelativeHumidity    Air Temp            Units               Meteorologist Name
+5/30/1839                 0.73                8.98          F                   B. Pascal
+11/30/2002                0.94              -24.29          C                   B. Pascal
+5/25/1863                 0.54              -54.29          c                   B. Pascal
+4/27/1971                 0.05              -25.60          c                   B. Pascal
+6/10/1808                 0.01               20.37          c                   B. Pascal
+6/5/1875                  1.02             -107.25          c                   B. Pascal
+12/31/1847                0.98              -62.57          f                   B. Pascal
+8/21/1959                 0.60               21.26          f                   B. Pascal
+5/7/1893                  0.18             -105.08          c                   B. Pascal
+4/12/1801                 0.86              -49.28          f                   B. Pascal
+11/16/1989                0.00             -121.14          f                   B. Pascal
+7/7/1864                  0.80              -81.01          c                   B. Pascal
+10/12/1934                0.39               51.12          c                   B. Pascal
+1/13/2007                 0.08                0.78          c                   B. Pascal
+8/5/1918                 -0.83               10.39          f                   B. Pascal
+12/7/1821                 0.12             -136.41          f                   B. Pascal
+8/21/1960                 0.87               66.75          f                   B. Pascal
+10/3/1839                 1.09               25.85          c                   B. Pascal
+6/30/1949                 0.55               62.55          f                   B. Pascal
+8/17/1897                 0.83               58.98          c                   B. Pascal
+4/16/1813                -0.01                0.62          f                   B. Pascal
+10/30/1923               -0.95               20.70          c                   B. Pascal
+11/2/2000                 0.81              -78.02          f                   B. Pascal
+2/30/1844                 0.85               23.73          c                   B. Pascal
+6/3/1972                  0.66               -3.46          c                   B. Pascal
+6/7/1982                  0.59              -88.25          f                   B. Pascal
+3/28/2004                 0.40               -3.79          c                   B. Pascal
+1/17/1878                 0.20               44.99          c                   B. Pascal
+6/14/2000                 0.09             -115.21          f                   B. Pascal
+7/13/1830                 0.61              -56.79          c                   B. Pascal
+12/27/1967                0.07              -65.53          c                   B. Pascal
+5/28/1966                 0.65              -85.13          f                   B. Pascal
+4/17/1985                 0.19               32.39          f                   B. Pascal
+9/21/2013                 0.44              108.21          f                   B. Pascal
+4/15/1836                 0.45              -66.06          c                   B. Pascal
+10/8/2007                 0.52              120.94          f                   B. Pascal
+2/20/1895                 0.34              -70.23          c                   B. Pascal
+1/1/1910                  0.78              103.15          f                   B. Pascal
+6/6/1829                  0.87              -62.54          f                   B. Pascal
+12/11/2012                1.07              105.96          f                   B. Pascal
+4/29/1935                 0.90             -142.33          f                   B. Pascal
+5/8/1980                  0.31               46.37          c                   B. Pascal
+11/26/1925                0.65               38.96          c                   B. Pascal
+2/15/1822                 0.69               47.14          c                   B. Pascal
+8/19/1819                 0.93                0.16          f                   B. Pascal
+2/2/1852                  1.18              101.19          f                   B. Pascal
+8/20/1829                 0.84              102.87          f                   B. Pascal
+2/20/1952                 1.11              -70.55          c                   B. Pascal
+4/12/1849                 0.38              -46.58          c                   B. Pascal
+12/5/2012                 0.83               44.77          f                   B. Pascal
+11/9/1975                 0.32              -57.22          c                   B. Pascal
+2/9/1993                  1.05               22.82          f                   B. Pascal
+4/22/1874                 0.37              -56.37          f                   B. Pascal
+9/16/1874                 0.29             -104.19          c                   B. Pascal
+4/4/1883                  0.46             -106.29          f                   B. Pascal
+12/24/1915                0.10              116.94          f                   B. Pascal
+9/3/1833                  0.12               -1.64          F                   D. Bernoulli
+12/26/1825                0.89              -30.48          c                   D. Bernoulli
+3/31/1817                 0.30               -1.45          c                   D. Bernoulli
+3/4/1870                  0.45             -139.22          f                   D. Bernoulli
+9/28/1983                 0.23             -109.90          f                   D. Bernoulli
+10/2/1977                 0.40              110.30          f                   D. Bernoulli
+6/4/1823                  0.23             -144.05          f                   D. Bernoulli
+3/29/1868                 0.58              -43.18          c                   D. Bernoulli
+10/14/1981                0.24               15.33          f                   D. Bernoulli
+3/18/1830                 1.07                1.62          f                   D. Bernoulli
+7/26/1921                 1.05                8.52          f                   D. Bernoulli
+2/10/1908                 0.87              -29.77          f                   D. Bernoulli
+5/5/1837                  0.13               43.41          f                   D. Bernoulli
+5/20/1889                 1.00               -7.01          f                   D. Bernoulli
+12/16/1846                0.30              -60.42          f                   D. Bernoulli
+3/30/1986                 0.74               88.82          f                   D. Bernoulli
+8/28/1838                 1.18              137.36          f                   D. Bernoulli
+3/1/1968                  0.24              -64.83          f                   D. Bernoulli
+4/13/1979                 1.00              -75.31          c                   D. Bernoulli
+3/29/2019                 0.05               21.82          c                   D. Bernoulli
+1/28/1843                 0.40                8.70          f                   D. Bernoulli
+10/26/1901                1.07              -48.36          c                   D. Bernoulli
+5/29/1942                 0.67              -62.77          f                   D. Bernoulli
+8/10/1842                 1.19              143.75          f                   D. Bernoulli
+6/15/1969                 0.24              129.26          f                   D. Bernoulli
+5/22/1837                 0.79               27.98          c                   D. Bernoulli
+1/13/1947                 1.08               -1.05          f                   D. Bernoulli
+1/29/1987                 0.38             -124.78          f                   D. Bernoulli
+8/24/1823                 0.69              -95.14          f                   D. Bernoulli
+4/31/1988                 0.52              -91.84          f                   D. Bernoulli
+6/4/1823                  0.72              -85.84          f                   D. Bernoulli
+8/22/2015                 1.10               59.92          c                   D. Bernoulli
+5/9/1809                  0.03              -55.39          f                   D. Bernoulli
+10/2/1829                 0.57              -23.07          c                   D. Bernoulli
+11/8/1854                 0.94               51.25          f                   D. Bernoulli
+3/7/1997                  1.07               -2.60          f                   D. Bernoulli
+8/2/1807                  0.19               78.19          f                   D. Bernoulli
+9/25/1853                 1.06               64.20          c                   D. Bernoulli
+10/9/1826                 0.95              139.20          f                   D. Bernoulli
+3/13/1853                 0.60                4.58          c                   D. Bernoulli
+3/21/1948                 0.74               47.99          f                   D. Bernoulli
+3/28/1914                 0.15              -18.72          f                   D. Bernoulli
+1/11/1951                -0.68               24.15          f                   D. Bernoulli
+5/8/1856                  0.00             -116.31          f                   D. Bernoulli
+7/19/1955                 0.53             -100.45          c                   D. Bernoulli
+12/13/1991                0.55               48.93          c                   D. Bernoulli
+5/19/1919                 0.17              -11.87          f                   D. Bernoulli
+7/16/1983                 0.86              -71.18          c                   D. Bernoulli
+10/7/1824                 0.59               70.71          f                   D. Bernoulli
+1/22/1936                 0.40               -7.56          f                   D. Bernoulli
+7/19/1986                 0.36               64.64          f                   D. Bernoulli
+3/9/1820                  0.54               57.84          c                   D. Bernoulli
+8/24/1874                 0.90              119.06          F                   E. Halley
+2/18/1887                 0.87                9.66          f                   E. Halley
+1/30/1959                 1.18              -51.53          f                   E. Halley
+3/19/1990                 1.01              -91.83          c                   E. Halley
+8/26/1954                 0.57             -108.54          c                   E. Halley
+4/5/1899                  0.76               -3.72          c                   E. Halley
+12/28/1990                0.97               14.41          f                   E. Halley
+7/20/1937                 0.13              136.42          f                   E. Halley
+2/4/1804                  0.23              -73.69          c                   E. Halley
+2/27/1919                 1.05              -29.13          c                   E. Halley
+7/11/1957                 0.08                8.12          c                   E. Halley
+9/4/1833                  1.08              -30.36          c                   E. Halley
+1/28/1874                 0.26               95.39          f                   E. Halley
+5/27/1893                 0.00                0.88          f                   E. Halley
+11/6/1921                 0.41              -35.80          f                   E. Halley
+11/10/1867                0.83               51.60          c                   E. Halley
+1/19/1847                 0.66              -34.80          c                   E. Halley
+5/13/1931                 0.13               52.20          c                   E. Halley
+12/9/1888                 0.30              -53.16          f                   E. Halley
+12/4/1911                 1.10              -97.42          c                   E. Halley
+6/23/1990                 0.59                6.53          c                   E. Halley
+9/22/1879                -0.02              -45.34          c                   E. Halley
+10/17/1804               -0.54               24.40          c                   E. Halley
+2/11/1809                 0.32                8.51          c                   E. Halley
+6/21/1982                 0.69               97.88          f                   E. Halley
+11/9/1874                 0.40                8.32          c                   E. Halley
+5/18/2012                 0.47              -45.63          c                   E. Halley
+5/24/1965                 0.37             -115.79          f                   E. Halley
+9/3/1919                  1.09               13.83          c                   E. Halley
+11/17/1801                0.11               27.52          c                   E. Halley
+3/23/1908                 0.24              101.68          f                   E. Halley
+12/4/1816                 0.08              -45.53          c                   E. Halley
+11/3/1977                 0.80              -68.15          c                   E. Halley
+6/10/1932                 1.01               36.70          c                   E. Halley
+2/23/1913                 0.35               85.61          f                   E. Halley
+6/13/1956                 1.09               39.96          c                   E. Halley
+8/27/1958                 0.34              -99.38          f                   E. Halley
+10/2/1895                 0.60              -54.53          f                   E. Halley
+3/2/1989                 -0.01             -137.56          f                   E. Halley
+9/11/1905                 0.02              -27.40          c                   E. Halley
+6/19/1811                 0.56               58.87          c                   E. Halley
+9/23/1810                 1.18              -86.45          c                   E. Halley
+5/18/1820                 1.03              -68.69          f                   E. Halley
+7/11/1881                 0.75               31.38          c                   E. Halley
+11/17/1946                0.78               36.86          c                   E. Halley
+1/22/1959                 0.12              -88.42          f                   E. Halley
+5/30/1846                 1.01               56.49          f                   E. Halley
+6/29/2013                 1.05              111.61          f                   E. Halley
+7/6/1916                  0.62               73.78          f                   E. Halley
+6/1/1870                  0.24               20.94          c                   E. Halley
+9/11/2017                 0.20             -124.72          f                   E. Halley
+9/28/1849                 0.80              -92.63          f                   E. Halley
+19/91/1754               -0.09              -38.12          >                   E. Torricelli
+11/3/1868                 0.91              -32.32          f                   E. Torricelli
+2/1/1932                  0.54               15.14          F                   E. Torricelli
+3/24/1832                 0.00               49.26          f                   E. Torricelli
+11/4/1806                 0.64             -148.61          f                   E. Torricelli
+3/20/1893                 0.23               83.11          f                   E. Torricelli
+4/10/1801                 0.65              -61.16          c                   E. Torricelli
+10/12/1803                1.13                3.10          f                   E. Torricelli
+4/30/1877                 0.90             -119.54          f                   E. Torricelli
+7/7/1849                  0.91                6.80          c                   E. Torricelli
+1/11/1802                 0.83              -25.57          c                   E. Torricelli
+3/15/1971                 0.64             -127.43          f                   E. Torricelli
+3/15/1840                 0.43              -70.83          c                   E. Torricelli
+7/24/2005                 1.13                5.62          f                   E. Torricelli
+1/5/1995                  0.56              -22.10          f                   E. Torricelli
+5/11/1824                 1.06               78.31          f                   E. Torricelli
+2/1/1801                  0.49              -34.45          f                   E. Torricelli
+7/13/1867                 1.02               50.14          f                   E. Torricelli
+1/21/1869                 0.28               76.67          f                   E. Torricelli
+9/25/2011                 0.92               56.57          c                   E. Torricelli
+6/16/1942                 0.10               21.24          c                   E. Torricelli
+4/7/1883                 -0.20                3.92          c                   E. Torricelli
+12/11/1905                0.96               45.83          c                   E. Torricelli
+6/31/1908                 0.00             -134.30          f                   E. Torricelli
+4/25/1907                 1.17              -58.90          c                   E. Torricelli
+6/16/2007                 0.28               70.18          f                   E. Torricelli
+12/9/1907                 0.85               -8.40          c                   E. Torricelli
+1/15/1803                 0.23              -88.30          f                   E. Torricelli
+10/27/1910                0.09               37.22          f                   E. Torricelli
+8/10/1935                 0.66              -62.69          c                   E. Torricelli
+4/8/1992                  0.91              -48.74          f                   E. Torricelli
+11/6/1973                 0.22               30.18          f                   E. Torricelli
+9/24/1940                 0.05              119.92          f                   E. Torricelli
+1/3/1802                  0.75              -48.61          c                   E. Torricelli
+2/21/1919                 0.52              -55.11          f                   E. Torricelli
+10/25/1854                0.67             -108.71          c                   E. Torricelli
+6/28/2013                 0.39              -62.61          c                   E. Torricelli
+7/28/1896                 0.89              -52.85          f                   E. Torricelli
+1/7/2017                  0.94              -77.20          c                   E. Torricelli
+10/9/1972                 0.85               55.67          c                   E. Torricelli
+6/27/1908                 0.36              146.36          f                   E. Torricelli
+12/20/1929                0.82               21.53          c                   E. Torricelli
+7/20/1988                 0.08              -32.77          c                   E. Torricelli
+7/14/1908                 0.35              -21.30          f                   E. Torricelli
+11/30/1900                1.13             -114.09          f                   E. Torricelli
+5/3/1999                  0.39             -120.18          f                   E. Torricelli
+12/21/1942               -0.46              -78.29          f                   E. Torricelli
+8/24/1854                 0.04                0.98          f                   E. Torricelli
+8/23/2017                 0.77             -103.65          f                   E. Torricelli
+3/16/1847                 0.71              -17.62          F                   J. Kepler
+10/18/1914                0.63              -17.37          c                   J. Kepler
+1/10/1958                 0.25               81.58          F                   J. Kepler
+8/18/1891                 0.76              100.33          8                   J. Kepler
+7/13/1812                 0.79             -107.10          f                   J. Kepler
+10/27/1824                0.87              -41.20          f                   J. Kepler
+9/7/1912                  0.07               18.13          c                   J. Kepler
+7/31/1990                 0.77              -78.56          c                   J. Kepler
+3/30/2014                 0.92              -58.39          f                   J. Kepler
+3/27/1890                 0.37              123.86          f                   J. Kepler
+4/11/1935                 0.65              -91.28          c                   J. Kepler
+4/1/1828                  0.34               51.67          f                   J. Kepler
+12/8/1947                 0.34              -50.43          f                   J. Kepler
+3/29/1996                 0.30             -101.34          f                   J. Kepler
+6/24/1945                 0.35              -15.06          f                   J. Kepler
+4/31/2003                 0.93             -105.59          c                   J. Kepler
+1/24/2012                 0.86              -79.06          c                   J. Kepler
+3/6/1926                  0.57             -141.25          f                   J. Kepler
+2/24/1960                 1.17               32.90          c                   J. Kepler
+4/5/1841                  1.17               37.88          f                   J. Kepler
+10/6/1890                 0.58              -11.79          f                   J. Kepler
+2/28/1811                 0.55              -91.24          c                   J. Kepler
+11/7/1826                 0.89               32.94          c                   J. Kepler
+8/6/1911                  0.30              101.92          f                   J. Kepler
+10/11/1993                0.05               35.43          c                   J. Kepler
+9/20/1799                 0.75               37.15          c                   J. Kepler
+7/17/1951                 0.36               62.14          c                   J. Kepler
+10/6/1981                 0.81              -17.89          c                   J. Kepler
+8/13/1806                 0.94               59.20          c                   J. Kepler
+6/12/1860                 0.78              139.99          f                   J. Kepler
+9/13/1925                 0.65               46.99          c                   J. Kepler
+1/1/1872                  1.14              111.68          f                   J. Kepler
+9/18/1912                 0.88              -46.42          c                   J. Kepler
+1/7/1886                  1.15             -105.64          c                   J. Kepler
+2/10/1935                 0.70              -45.02          c                   J. Kepler
+1/14/1845                 0.88               -8.63          c                   J. Kepler
+6/13/1841                 1.02             -147.77          f                   J. Kepler
+3/16/1999                 0.28              -22.85          c                   J. Kepler
+11/30/1942                 0.38              124.57          f                   J. Kepler
+11/30/1942                 0.82              -63.76          f                   J. Kepler
+11/30/1942                0.58               35.85          c                   J. Kepler
+11/30/1942                  1.16               34.76          c                   J. Kepler
+11/30/1942                 0.52               19.68          f                   J. Kepler
+11/30/1942                 0.85               28.57          c                   J. Kepler
+11/30/1942                 1.17             -146.76          f                   J. Kepler
+11/30/1942                 0.64              -71.40          c                   J. Kepler
+11/30/1942                 0.67             -107.21          c                   J. Kepler
+11/30/1942                 0.25             -123.16          f                   J. Kepler
+11/30/1942                  0.95               32.91          c                   J. Kepler
+11/30/1942                  0.11              -43.14          f                   J. Kepler
+11/30/1942                 1.02              -38.35          f                   J. Kepler
+11/30/1942                 -0.62               39.49          f                   J. Kepler
+11/30/1942                 0.30               13.15          f                   J. Kepler
+11/30/1942                  1.03               17.82          c                   J. Kepler
+11/30/1942                  0.56               21.30          c                   J. Kepler
+11/30/1942                -1.15               58.90          c                   J. Kepler
+11/30/1942                  0.29               62.91          c                   J. Kepler
+11/30/1942                  0.46              -61.43          c                   J. Kepler
+11/30/1942                0.19              -49.53          f                   J. Kepler
+2/30/1000                 2.93              142.42          F                   Sir C. Wren
+2/17/1950                 0.66              -77.49          c                   Sir C. Wren
+2/31/1968                 0.90             -134.38          f                   Sir C. Wren
+6/31/2008                 0.65               29.75          c                   Sir C. Wren
+1/3/1840                  0.00               19.60          f                   Sir C. Wren
+9/29/1950                 0.02                2.61          c                   Sir C. Wren
+9/19/2000                 0.04               38.20          f                   Sir C. Wren
+12/12/1817                0.46                0.84          c                   Sir C. Wren
+9/16/1806                 0.92               21.22          f                   Sir C. Wren
+6/10/1934                 0.91              -41.64          f                   Sir C. Wren
+11/21/1814                0.43              -87.60          c                   Sir C. Wren
+3/15/1867                 0.54               32.82          c                   Sir C. Wren
+1/19/1981                 0.59               46.32          c                   Sir C. Wren
+7/11/1917                 0.64               52.43          c                   Sir C. Wren
+8/23/1875                 0.13              -23.07          c                   Sir C. Wren
+3/7/1831                  0.86               27.35          c                   Sir C. Wren
+11/5/1838                 0.23               33.83          c                   Sir C. Wren
+1/23/1830                 0.18               62.88          f                   Sir C. Wren
+9/1/1955                  1.17              147.85          f                   Sir C. Wren
+2/8/1827                  0.21               25.20          f                   Sir C. Wren
+11/21/1907               -0.39              -75.27          c                   Sir C. Wren
+7/7/2018                  0.91              -83.30          c                   Sir C. Wren
+3/27/1798                 0.47               51.38          c                   Sir C. Wren
+10/9/1815                 0.59              -81.33          c                   Sir C. Wren
+11/13/1919                0.08               40.21          c                   Sir C. Wren
+1/16/1979                 0.03              -19.05          f                   Sir C. Wren
+12/20/1805               -0.82              -82.13          c                   Sir C. Wren
+2/4/1905                  0.66             -127.09          f                   Sir C. Wren
+7/9/1815                  0.03                8.83          c                   Sir C. Wren
+6/12/1988                 0.93              -38.54          c                   Sir C. Wren
+11/29/1933                0.30               76.79          f                   Sir C. Wren
+8/11/1852                 0.39               47.74          c                   Sir C. Wren
+11/26/1983                0.14                9.69          f                   Sir C. Wren
+6/23/2012                 0.46              -50.19          c                   Sir C. Wren
+3/9/1863                  0.04              -18.02          c                   Sir C. Wren
+7/31/2014                 0.19                4.18          c                   Sir C. Wren
+2/29/1868                 0.75               22.97          c                   Sir C. Wren
+2/14/1857                 0.19              123.88          f                   Sir C. Wren
+7/27/2010                 1.04              -65.77          c                   Sir C. Wren
+4/18/2013                 0.77               48.64          c                   Sir C. Wren
+5/14/2008                 0.19              -95.76          f                   Sir C. Wren
+1/3/1946                 -0.39               22.22          c                   Sir C. Wren
+4/9/1810                  0.34               63.83          c                   Sir C. Wren
+7/28/1801                 0.40               22.97          c                   Sir C. Wren
+7/8/1990                  0.18              -87.15          f                   Sir C. Wren
+12/20/1814                0.45               19.47          c                   Sir C. Wren
+4/8/1951                  0.05               78.54          f                   Sir C. Wren
+11/24/1846                0.12              -58.15          c                   Sir C. Wren
+7/11/1813                 0.23             -137.10          f                   Sir C. Wren
+1/31/1965                 0.53               23.19          c                   Sir C. Wren
+1/13/1897                 0.51               52.72          c                   Sir C. Wren
+7/1/1945                  0.12             -148.66          f                   Sir C. Wren
