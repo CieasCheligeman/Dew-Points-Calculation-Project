@@ -2,7 +2,7 @@
  *                                                                                     *
  *                             Summer 2019 Project #4                                  *
  *                            class Weather declaraion                                 *
- *    This is provided to COSC 051 students to use as their own without attribution    *
+ *                                                                                     *
  *                                                                                     *
  ***************************************************************************************/
 
@@ -18,8 +18,7 @@
  *
  *
  *  In accordance with the class policies and Georgetown's
- *  Honor Code, I certify that, with the exception of the
- *  class resources and those items noted below, I have neither
+ *  Honor Code, I certify that I have neither
  *  given nor received any assistance on this project.
  *
  *  References not otherwise commented within the program source code.
